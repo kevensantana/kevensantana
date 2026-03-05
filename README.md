@@ -55,7 +55,6 @@ Desenvolvedor de Software, pesquisador e fundador da **@Participe.ai** e **@Neek
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevensantana&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
   </a>
 </div>
-
 ## 📫 Contato
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
