@@ -11,7 +11,7 @@ Desenvolvedor de software, pesquisador e fundador da **Participe.ai** e **NeekFl
 * 🤖 Trabalho com **IA, automação, dados e sistemas de recomendação** aplicados a produtos digitais.
 * 🧩 Experiência em **arquitetura, desenvolvimento, gestão de produtos e liderança de equipes**.
 * 🔬 Interesse em **pesquisa aplicada, inovação, IA e transformação digital**.
-* 🎓 Graduando em **Bacharelado Interdisciplinar em Ciência e Tecnologia — UFBA**.
+* 🎓 Graduando em **Bacharelado Interdisciplinar em Ciência e Tecnologia - UFBA**.
 
 ## Principais tecnologias
 
