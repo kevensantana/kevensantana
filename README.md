@@ -60,13 +60,13 @@ Desenvolvedor de software, pesquisador e fundador da **Participe.ai** e **NeekFl
 
 ## 🚀 Projetos
 
-### [Participe.ai](https://github.com/)
+### [Participe.ai](https://www.participeai.com.br/home)
 
 Plataforma voltada à **gestão, conexão, comercialização, doação e rastreabilidade de excedentes alimentares**, conectando produtores, varejo, organizações sociais e comunidades.
 
 **Tecnologias:** Angular · Node.js · APIs · IA · Dados · Cloud
 
-### NeekFlow
+### [NeekFlow](https://www.neekflow.com.br/)
 
 Solução SaaS para **gestão de negócios e automação de processos**, com arquitetura orientada a serviços e recursos de inteligência aplicada.
 
